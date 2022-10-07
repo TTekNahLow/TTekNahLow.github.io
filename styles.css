@@ -1,9 +1,5 @@
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
-#can1{
-    border: dotted 1px;
+#exemplo {
+    border: 2px solid #6666;
+    /* width: 1000px;
+    height: 640px; */
 }
